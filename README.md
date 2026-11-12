@@ -1,16 +1,26 @@
-## Hi there 👋
+# SG Web Studio
 
-<!--
-**web-studio01/web-studio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fast, mobile-first websites for local businesses in Pakistan.**
+See a demo first, then decide.
 
-Here are some ideas to get you started:
+## What we build
+- Websites for clinics, restaurants, real estate, salons, stores and more
+- Booking forms, WhatsApp integration and local SEO
+- Custom design in your brand colors, never a recycled template
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sample projects
+- Clinic: CarePoint Clinic
+- Real estate: Prime Estates
+- Restaurant: Gourmet Bistro
+
+Live: https://webstudio-flax-one.vercel.app/#demos
+
+## Built with
+Next.js · React · Tailwind CSS · Vercel
+
+## Get in touch
+- Website: https://webstudio-flax-one.vercel.app
+- Email: webstudiosg5@gmail.com
+- Instagram: https://www.instagram.com/webstudio101
+- Facebook: https://www.facebook.com/webstudio101
+- Threads: https://www.threads.com/@webstudio101
